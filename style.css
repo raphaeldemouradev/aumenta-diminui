@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(34, 111, 255);
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/* corpo */
+
+main {
+    text-align: center;
+    margin-top: 50px;
+}
+
+div {
+    display: inline-flex;
+}
+
+.resultado {
+    background-color: white;
+    min-width: 85px;
+    width: auto;
+    height: 50px;
+    margin: auto;
+    font-size: 40px;
+}
+
+button.adds {
+    width: 53px;
+    height: 53px;
+    font-size: 30px;
+}
