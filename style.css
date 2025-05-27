@@ -42,3 +42,14 @@ button.adds {
     height: 53px;
     font-size: 30px;
 }
+
+/* footer */
+
+footer p {
+    text-align: center;
+    color: white;
+    font-size: 1.4em;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 200px;
+}
